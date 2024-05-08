@@ -1,1 +1,8 @@
-1222222222222222222najhj
+12222m
+
+22222222222222naj
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+
